@@ -2,5 +2,5 @@
 require "./PubMedFetch.rb"
 
 
-query1 = NCBIquery.new("herbal therapy", "E:/Github\ Practice/MAMSDunett/data/result1.txt")
+query1 = NCBIquery.new("herbal therapy", "x:/xxxx/result1.txt")
 query1.submit_query()
