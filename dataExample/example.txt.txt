@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">26850038</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>06</Day>
+        </DateCreated>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1475-2875</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Malaria journal</Title>
+                <ISOAbbreviation>Malar. J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mutations of pvdhfr and pvdhps genes in vivax endemic-malaria areas in Kota Marudu and Kalabakan, Sabah.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>63</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12936-016-1109-9</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Malaria cases persist in some remote areas in Sabah and Sarawak despite the ongoing and largely successful malaria control programme conducted by the Vector Borne Disease Control Programme, Ministry Of Health, Malaysia. Point mutations in the genes that encode the two enzymes involved in the folate biosynthesis pathway, dihydrofolate reductase (DHFR) and dihydropteroate synthase (DHPS) enzymes confer resistance to pyrimethamine and sulfadoxine respectively, in both Plasmodium falciparum and P. vivax. The aim of the current study was to determine the mutation on both pvdhfr at codon 13, 33, 57, 58, 61, 117, and 173 and pvdhps genes at codon 383 and 553, which are potentially associated with resistance to pyrimethamine and sulfadoxine in P. vivax samples in Sabah.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Every individual was screened for presence of malaria infection using a commercial rapid dipstick assay, ParaMax-3™ (Zephyr Biomedical, India). Individuals tested positive for P. vivax had blood collected and parasite DNA extracted. The pvdhfr and pvdhps genes were amplified by nested-PCR. Restriction fragment length polymorphism (RFLP) was carried out for detection of specific mutations in pvdhfr at codons 13Leu, 33Leu, 57Ile/Leu, 58Arg, 61Met, 117Asn/Thr, and 173Leu and pvdhps at codons 383Gly and 553Gly. The PCR-RFLP products were analysed using the Agilent 2100 Bioanalyzer (Agilent Technology, AS).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A total of 619 and 2119 individuals from Kalabakan and Kota Marudu, respectively participated in the study. In Kalabakan and Kota Marudu, 9.37 and 2.45 % were tested positive for malaria and the positivity for P. vivax infection was 4.2 and 0.52 %, respectively. No mutation was observed at codon 13, 33 and 173 on pvdhfr and at codon 553 on pvdhps gene on samples from Kalabakan and Kota Marudu. One-hundred per cent mutations on pvdhfr were at 57Leu and 117Thr. Mutation at 58Arg and 61Met was observed to be higher in Kota Marudu 72.73 %. Mutation at 383Gly on pvdhps was highest in Kalabakan with 80.77 %. There are four distinct haplotypes of pvdhfr/pvdhps combination.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The presence of triple and quintuple mutation combination suggest that the P. vivax isolates exhibit a high degree of resistant to sulfadoxine, pyrimethamine and sulfadoxine-pyrimethamine combination therapy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sastu</LastName>
+                    <ForeName>Umi Rubiah</ForeName>
+                    <Initials>UR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Herbal Medicine Research Centre, Institute for Medical Research, Ministry of Health, Jalan Pahang, 50588, Kuala Lumpur, Malaysia. umie_1902@yahoo.com.my.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abdullah</LastName>
+                    <ForeName>Noor Rain</ForeName>
+                    <Initials>NR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Herbal Medicine Research Centre, Institute for Medical Research, Ministry of Health, Jalan Pahang, 50588, Kuala Lumpur, Malaysia. noorrain@imr.gov.my.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Norahmad</LastName>
+                    <ForeName>Nor Azrina</ForeName>
+                    <Initials>NA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Herbal Medicine Research Centre, Institute for Medical Research, Ministry of Health, Jalan Pahang, 50588, Kuala Lumpur, Malaysia. azrina@imr.gov.my.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saat</LastName>
+                    <ForeName>Muhammad Nor Farhan</ForeName>
+                    <Initials>MN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Herbal Medicine Research Centre, Institute for Medical Research, Ministry of Health, Jalan Pahang, 50588, Kuala Lumpur, Malaysia. mnfarhan@imr.gov.my.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Muniandy</LastName>
+                    <ForeName>Prem Kumar</ForeName>
+                    <Initials>PK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Herbal Medicine Research Centre, Institute for Medical Research, Ministry of Health, Jalan Pahang, 50588, Kuala Lumpur, Malaysia. prem_khs@hotmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jelip</LastName>
+                    <ForeName>Jenarun</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sabah State Health Department, Level 3, Rumah Persekutuan, Jalan Mat Salleh, 88590, Kota Kinabalu, Sabah, Malaysia. drjenarun@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tikuson</LastName>
+                    <ForeName>Moizin</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>District Health Office Kota Marudu, PO Box 421, 89108, Kota Marudu, Sabah, Malaysia. tmoizin@yahoo.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yusof</LastName>
+                    <ForeName>Norsalleh</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>District Health Office Kota Marudu, PO Box 421, 89108, Kota Marudu, Sabah, Malaysia. hazimnsy@yahoo.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sidek</LastName>
+                    <ForeName>Hasidah Mohd</ForeName>
+                    <Initials>HM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Science and Technology, School of Bioscience and Biotechnology, Universiti Kebangsaan Malaysia, 43600, Bangi, Malaysia. hasidahmohdsidek@yahoo.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>02</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Malar J</MedlineTA>
+            <NlmUniqueID>101139802</NlmUniqueID>
+            <ISSNLinking>1475-2875</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2016</Year>
+                <Month>2</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>2</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>2</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>2</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12936-016-1109-9</ArticleId>
+            <ArticleId IdType="pii">10.1186/s12936-016-1109-9</ArticleId>
+            <ArticleId IdType="pubmed">26850038</ArticleId>
+            <ArticleId IdType="pmc">PMC4743234</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
