@@ -81,23 +81,35 @@ class NCBIquery
         f1, f2 = @filename.split(".", 2)
         newfilename = "#{f1}.mesh.#{f2}"
 
-        article = data.xpath("//PubmedArticle").select do|article_node|
+        article = data.xpath("//PubmedArticle//MedlineCitation").select do|article_node|
             # article_node.xpath(".PMID")
-            article_node.xpath("./MedlineCitation//MeshHeadingList").size > 0 
+            article_node.xpath("./MeshHeadingList").size > 0
+
         end
 
+        article_mesh = article.each_with_object({}) do |article_node, mesh_hash|
+            pubID = article_node.xpath("./PMID").text()
+            mesh_hash[pubID] = article_node.xpath("./MeshHeadingList//MeshHeading//DescriptorName").collect do |mesh_term|
+                mesh_term.content
+            end
+        end
+
+        puts "MeSH terms extracted..."
         outfile = File.new(newfilename, "w+")
-        outfile.puts(article)
+        article_mesh.each do |key, value|
+            outfile.puts("#{key}\t#{value.join("|")}")
+        end
         outfile.close
+
     end
 
 
     def close_query
 
-        remove_class_variable(@pubmed_data)
+        begin
+            remove_class_variable(@pubmed_data)
+        end
+        puts "Cached data cleaned..."
 
     end
 end
-
-
-
