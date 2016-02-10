@@ -82,8 +82,8 @@ class NCBIquery
         newfilename = "#{f1}.mesh.#{f2}"
 
         article = data.xpath("//PubmedArticle").select do|article_node|
-            article_node.xpath("//PMID")
-            article_node.xpath("//MeshHeadingList")
+            # article_node.xpath(".PMID")
+            article_node.xpath("./MedlineCitation//MeshHeadingList").size > 0 
         end
 
         outfile = File.new(newfilename, "w+")
